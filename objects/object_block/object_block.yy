@@ -3,10 +3,10 @@
   "resourceVersion": "1.0",
   "name": "object_block",
   "spriteId": {
-    "name": "sprite_block_bush",
-    "path": "sprites/sprite_block_bush/sprite_block_bush.yy",
+    "name": "sprite_block_stone",
+    "path": "sprites/sprite_block_stone/sprite_block_stone.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

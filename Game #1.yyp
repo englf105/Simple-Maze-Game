@@ -4,6 +4,7 @@
   "name": "Game #1",
   "resources": [
     {"id":{"name":"sprite_player_idle_left","path":"sprites/sprite_player_idle_left/sprite_player_idle_left.yy",},"order":0,},
+    {"id":{"name":"sprite_background","path":"sprites/sprite_background/sprite_background.yy",},"order":2,},
     {"id":{"name":"sprite_player_running_left","path":"sprites/sprite_player_running_left/sprite_player_running_left.yy",},"order":4,},
     {"id":{"name":"sprite_block_brick","path":"sprites/sprite_block_brick/sprite_block_brick.yy",},"order":1,},
     {"id":{"name":"sprite_player_pickup_right","path":"sprites/sprite_player_pickup_right/sprite_player_pickup_right.yy",},"order":3,},
@@ -13,6 +14,8 @@
     {"id":{"name":"object_block","path":"objects/object_block/object_block.yy",},"order":1,},
     {"id":{"name":"sprite_player_pickup_left","path":"sprites/sprite_player_pickup_left/sprite_player_pickup_left.yy",},"order":2,},
     {"id":{"name":"sprite_block_bush","path":"sprites/sprite_block_bush/sprite_block_bush.yy",},"order":0,},
+    {"id":{"name":"sprite_block_stone","path":"sprites/sprite_block_stone/sprite_block_stone.yy",},"order":4,},
+    {"id":{"name":"sprite_block_wall","path":"sprites/sprite_block_wall/sprite_block_wall.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
