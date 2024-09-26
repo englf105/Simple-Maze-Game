@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprite_player_idle_left",
+    "path": "sprites/sprite_player_idle_left/sprite_player_idle_left.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
