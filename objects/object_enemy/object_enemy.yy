@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_block",
+  "name": "object_enemy",
   "spriteId": {
-    "name": "sprite_block_stone",
-    "path": "sprites/sprite_block_stone/sprite_block_stone.yy",
+    "name": "sprite_enemy_skeleton",
+    "path": "sprites/sprite_enemy_skeleton/sprite_enemy_skeleton.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -24,11 +24,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Blocks",
-    "path": "folders/Objects/Blocks.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
 }

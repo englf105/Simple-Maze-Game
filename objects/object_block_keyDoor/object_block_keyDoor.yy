@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_block",
+  "name": "object_block_keyDoor",
   "spriteId": {
-    "name": "sprite_block_stone",
-    "path": "sprites/sprite_block_stone/sprite_block_stone.yy",
+    "name": "sprite_block_keyDoorV",
+    "path": "sprites/sprite_block_keyDoorV/sprite_block_keyDoorV.yy",
   },
   "solid": true,
   "visible": true,

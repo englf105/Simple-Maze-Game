@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_block",
+  "name": "object_gui_healthBar",
   "spriteId": {
-    "name": "sprite_block_stone",
-    "path": "sprites/sprite_block_stone/sprite_block_stone.yy",
+    "name": "sprite_gui_healthBar",
+    "path": "sprites/sprite_gui_healthBar/sprite_gui_healthBar.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -24,11 +24,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Blocks",
-    "path": "folders/Objects/Blocks.yy",
+    "name": "Gui",
+    "path": "folders/Objects/Gui.yy",
   },
 }

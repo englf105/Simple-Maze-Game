@@ -1,0 +1,25 @@
+{
+  "resourceType": "GMPath",
+  "resourceVersion": "1.0",
+  "name": "path_enemy_room1",
+  "kind": 0,
+  "closed": true,
+  "precision": 4,
+  "points": [
+    {"speed":100.0,"x":256.0,"y":64.0,},
+    {"speed":100.0,"x":448.0,"y":64.0,},
+    {"speed":100.0,"x":448.0,"y":640.0,},
+    {"speed":100.0,"x":640.0,"y":640.0,},
+    {"speed":100.0,"x":640.0,"y":832.0,},
+    {"speed":100.0,"x":640.0,"y":832.0,},
+    {"speed":100.0,"x":96.0,"y":832.0,},
+    {"speed":100.0,"x":64.0,"y":832.0,},
+    {"speed":100.0,"x":64.0,"y":448.0,},
+    {"speed":100.0,"x":256.0,"y":448.0,},
+    {"speed":100.0,"x":256.0,"y":448.0,},
+  ],
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy",
+  },
+}

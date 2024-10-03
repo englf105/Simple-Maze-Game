@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_block",
+  "name": "object_spikes",
   "spriteId": {
-    "name": "sprite_block_stone",
-    "path": "sprites/sprite_block_stone/sprite_block_stone.yy",
+    "name": "sprite_spikes",
+    "path": "sprites/sprite_spikes/sprite_spikes.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -24,11 +24,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"object_player","path":"objects/object_player/object_player.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Blocks",
-    "path": "folders/Objects/Blocks.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Misc.yy",
   },
 }

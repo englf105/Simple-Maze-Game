@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_block",
+  "name": "Key",
   "spriteId": {
-    "name": "sprite_block_stone",
-    "path": "sprites/sprite_block_stone/sprite_block_stone.yy",
+    "name": "sprite_misc_key",
+    "path": "sprites/sprite_misc_key/sprite_misc_key.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Blocks",
-    "path": "folders/Objects/Blocks.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Misc.yy",
   },
 }
