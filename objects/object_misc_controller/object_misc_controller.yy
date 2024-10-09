@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_enemy",
-  "spriteId": {
-    "name": "sprite_enemy_skeleton",
-    "path": "sprites/sprite_enemy_skeleton/sprite_enemy_skeleton.yy",
-  },
+  "name": "object_misc_controller",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -26,11 +23,12 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Misc.yy",
   },
 }

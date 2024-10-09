@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_block_keyDoorH",
+  "name": "object_enemy1",
   "spriteId": {
-    "name": "sprite_block_keyDoorH",
-    "path": "sprites/sprite_block_keyDoorH/sprite_block_keyDoorH.yy",
+    "name": "sprite_enemy_skeleton_right",
+    "path": "sprites/sprite_enemy_skeleton_right/sprite_enemy_skeleton_right.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -31,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Blocks",
-    "path": "folders/Objects/Blocks.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
 }

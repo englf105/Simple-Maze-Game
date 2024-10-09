@@ -1,7 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (image_index == 2) {
-	health -= 25
-
+if health <= 0 {
+	
+	lives -= 1;
+	
+	health = 100;
+	
 }
+

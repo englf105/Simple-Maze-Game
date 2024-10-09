@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_spikes",
+  "name": "object_misc_spikes",
   "spriteId": {
-    "name": "sprite_spikes",
-    "path": "sprites/sprite_spikes/sprite_spikes.yy",
+    "name": "sprite_misc_spikes",
+    "path": "sprites/sprite_misc_spikes/sprite_misc_spikes.yy",
   },
   "solid": false,
   "visible": true,

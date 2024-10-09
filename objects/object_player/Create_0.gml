@@ -1,6 +1,7 @@
 // Main
 
 health = 100
+lives = 3
 
 walkspeed = 4
 player_direction = 0
